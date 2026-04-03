@@ -1,121 +1,103 @@
 #EXTM3U
-
-# ==========================================
-# Maroc
-# ==========================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/2M_TV.png" group-title="Maroc",2M Monde 4k (1080p)
+#EXTINF:-1,2M Monde 4k (1080p)
 https://stream-lb.livemediama.com/2m/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/2M_TV.png" group-title="Maroc",2M Monde FHD (1080p)
+#EXTINF:-1,2M Monde FHD (1080p)
 https://stream-lb.livemediama.com/2m/hls/stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Al_Aoula_logo.svg/512px-Al_Aoula_logo.svg.png" group-title="Maroc",Al Aoula 4k 
+#EXTINF:-1,Al Aoula 4k 
 https://stream-lb.livemediama.com/alaoula/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Al_Aoula_logo.svg/512px-Al_Aoula_logo.svg.png" group-title="Maroc",Al Aoula FHD 
+#EXTINF:-1,Al Aoula FHD 
 https://stream-lb.livemediama.com/alaoula/hls/stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Al_Aoula_logo.svg/512px-Al_Aoula_logo.svg.png" group-title="Maroc",Al Aoula TNT 4k 
+#EXTINF:-1,Al Aoula TNT 4k 
 https://stream-lb.livemediama.com/alaoula-tnt/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Al_Aoula_logo.svg/512px-Al_Aoula_logo.svg.png" group-title="Maroc",Al Aoula TNT FHD 
+#EXTINF:-1,Al Aoula TNT FHD 
 https://stream-lb.livemediama.com/alaoula-tnt/hls/stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Al+Maghribia&background=c1272d&color=fff&size=512" group-title="Maroc",Al Maghribia FHD 
+#EXTINF:-1,Al Maghribia FHD 
 https://stream-lb.livemediama.com/almaghribia/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arryadia_logo.svg/512px-Arryadia_logo.svg.png" group-title="Maroc",Al arryadia 4K 
+#EXTINF:-1,Al arryadia 4K 
 https://stream-lb.livemediama.com/arryadia/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arryadia_logo.svg/512px-Arryadia_logo.svg.png" group-title="Maroc",Al arryadia FHD 
+#EXTINF:-1,Al arryadia FHD 
 https://stream-lb.livemediama.com/arryadia/hls/stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arryadia_logo.svg/512px-Arryadia_logo.svg.png" group-title="Maroc",Al arryadia TNT 4K 
+#EXTINF:-1,Al arryadia TNT 4K 
 https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arryadia_logo.svg/512px-Arryadia_logo.svg.png" group-title="Maroc",Al arryadia TNT FHD 
+#EXTINF:-1,Al arryadia TNT FHD 
 https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arryadia_logo.svg/512px-Arryadia_logo.svg.png" group-title="Maroc",Al arryadia HD1 FHD 
+#EXTINF:-1,Al arryadia HD1 FHD 
 https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arryadia_logo.svg/512px-Arryadia_logo.svg.png" group-title="Maroc",Al arryadia HD2 FHD 
+#EXTINF:-1,Al arryadia HD2 FHD 
 https://stream-lb.livemediama.com/arryadia-hd-02/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arryadia_logo.svg/512px-Arryadia_logo.svg.png" group-title="Maroc",Al arryadia HD3 FHD 
+#EXTINF:-1,Al arryadia HD3 FHD 
 https://stream-lb.livemediama.com/arryadia-hd-03/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Aflam&background=0D8ABC&color=fff&size=512" group-title="Maroc", Aflam FHD 
+#EXTINF:-1, Aflam FHD 
 https://stream-lb.livemediama.com/aflam/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Tamazight&background=006400&color=fff&size=512" group-title="Maroc", Tamazight FHD 
+#EXTINF:-1, Tamazight FHD 
 https://stream-lb.livemediama.com/tamazight/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=M24+Maroc&background=d92128&color=fff&size=512" group-title="Maroc", M24 Maroc FHD 
+#EXTINF:-1, M24 Maroc FHD 
 https://stream-lb.livemediama.com/m24maroc/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Telemaroc&background=000&color=fff&size=512" group-title="Maroc", Telemaroc FHD 
+#EXTINF:-1, Telemaroc FHD 
 https://stream-lb.livemediama.com/telemaroc/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Medi1tv_logo.svg/512px-Medi1tv_logo.svg.png" group-title="Maroc", Medi1Tv Maghreb 4K
+#EXTINF:-1, Medi1Tv Maghreb 4K
 https://stream-lb.livemediama.com/medi1tv-maghreb/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Medi1tv_logo.svg/512px-Medi1tv_logo.svg.png" group-title="Maroc", Medi1Tv Maghreb FHD
+#EXTINF:-1, Medi1Tv Maghreb FHD
 https://stream-lb.livemediama.com/medi1tv-maghreb/hls/stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Medi1tv_logo.svg/512px-Medi1tv_logo.svg.png" group-title="Maroc", Medi1Tv Arabic 4K
+#EXTINF:-1, Medi1Tv Arabic 4K
 https://stream-lb.livemediama.com/medi1tv-arabic/hls/stream_0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Medi1tv_logo.svg/512px-Medi1tv_logo.svg.png" group-title="Maroc", Medi1Tv Arabic FHD
+#EXTINF:-1, Medi1Tv Arabic FHD
 https://stream-lb.livemediama.com/medi1tv-arabic/hls/stream_0/playlist.m3u8
-
-# ==========================================
-# News
-# ==========================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Al_Araby_TV_logo.svg/512px-Al_Araby_TV_logo.svg.png" group-title="News",Al Araby TV (1080p)
+#EXTINF:-1,Al Araby TV (1080p)
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Al_Araby_TV_logo.svg/512px-Al_Araby_TV_logo.svg.png" group-title="News",Al Araby TV 2 (1080p)
+#EXTINF:-1,Al Araby TV 2 (1080p)
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Al+Ekhbariya&background=008000&color=fff&size=512" group-title="News",Al Ekhbariya (1080p)
+#EXTINF:-1,Al Ekhbariya (1080p)
 INSERT_URL_HERE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera (1080p)
+#EXTINF:-1,Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Al_Jazeera_Documentary_Channel_logo.svg/512px-Al_Jazeera_Documentary_Channel_logo.svg.png" group-title="News",Al Jazeera Documentary (1080p) [Geo-blocked]
+#EXTINF:-1,Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
+#EXTINF:-1,Al Jazeera English (1080p)
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera Mubasher (1080p)
+#EXTINF:-1,Al Jazeera Mubasher (1080p)
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera Mubasher 24 (1080p)
+#EXTINF:-1,Al Jazeera Mubasher 24 (1080p)
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera Mubasher Broadcast 2 (1080p)
+#EXTINF:-1,Al Jazeera Mubasher Broadcast 2 (1080p)
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/BBC_Arabic_logo.svg/512px-BBC_Arabic_logo.svg.png" group-title="News",BBC Arabic (720p)
+#EXTINF:-1,BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CGTN_logo.svg/512px-CGTN_logo.svg.png" group-title="News",CGTN (1080p)
+#EXTINF:-1,CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CGTN_logo.svg/512px-CGTN_logo.svg.png" group-title="News",CGTN Arabic (1080p) [Not 24/7]
+#EXTINF:-1,CGTN Arabic (1080p) [Not 24/7]
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CGTN_logo.svg/512px-CGTN_logo.svg.png" group-title="News",CGTN Documentary (1080p)
+#EXTINF:-1,CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Deutsche_Welle_logo_2012.svg/512px-Deutsche_Welle_logo_2012.svg.png" group-title="News",DW Arabic (1080p)
+#EXTINF:-1,DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Deutsche_Welle_logo_2012.svg/512px-Deutsche_Welle_logo_2012.svg.png" group-title="News",DW English (1080p)
+#EXTINF:-1,DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/France_24_logo.svg/512px-France_24_logo.svg.png" group-title="News",France 24 Arabic (1080p)
+#EXTINF:-1,France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-
-# ==========================================
-# islamic
-# ==========================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Iqraa_TV_logo.svg/512px-Iqraa_TV_logo.svg.png" group-title="islamic",Iqraa Africa & Europe (1080p)
+#EXTINF:-1,Iqraa Africa & Europe (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Iqraa_TV_logo.svg/512px-Iqraa_TV_logo.svg.png" group-title="islamic",Iqraa Arabic (1080p) 
+#EXTINF:-1,Iqraa Arabic (1080p) 
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Iqraa_TV_logo.svg/512px-Iqraa_TV_logo.svg.png" group-title="islamic",Iqraa Quran (1080p)
+#EXTINF:-1,Iqraa Quran (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-
-# ==========================================
-# Movies
-# ==========================================
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=MBC+4&background=800080&color=fff&size=512" group-title="Movies",MBC 4 (1080p)
+#EXTINF:-1,MBC 4 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=MBC+5&background=ff6600&color=fff&size=512" group-title="Movies",MBC 5 (1080p)
+#EXTINF:-1,MBC 5 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=MBC+Masr&background=ffcc00&color=fff&size=512" group-title="Movies",MBC Masr (1080p)
+#EXTINF:-1,MBC Masr (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=MBC+Drama&background=cc0000&color=fff&size=512" group-title="Movies",MBC+ Drama (1080p)
+#EXTINF:-1,MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Movies+Action&background=111&color=e50914&size=512" group-title="Movies",Movies Action (1080p)
+#EXTINF:-1,Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Movies+Thriller&background=111&color=e50914&size=512" group-title="Movies",Movies Thriller (1080p)
+#EXTINF:-1,Movies Thriller (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=iFilm&background=003366&color=fff&size=512" group-title="Movies",iFilm Arabic
+#EXTINF:-1,iFilm Arabic
 https://live.presstv.ir/hls/ifilmar.m3u8
-
-# ==========================================
-# anime
-# ==========================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/MBC_3_logo.svg/512px-MBC_3_logo.svg.png" group-title="anime",MBC 3 USA (1080p) [Geo-blocked]
+#EXTINF:-1,MBC 3 USA (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Wasabi+Anime&background=00cc66&color=fff&size=512" group-title="anime", Wasabi Anime (1080p)
+#EXTINF:-1, Wasabi Anime (1080p)
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01796-fastmediafast-wasabii-rakutenuk/cb553d177d6c648c9ad43e6fd6ef42a4df2402fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac5a243e517e9b9cbb65d980027ee78b547535b17a1f51fe0f15d135257bcbec1c079d72e42d5c5db84b2a0f63d9bb5ca57651d8825f8c78348aac8b60242f5a0e98400ee3a75fa5aee95846da6ca2d3bf79af0d7d6021e9f8fe2ec6f1c66ce31cc429a247c2b0d1b1e161f4a60bb764659852285e30749a8103ffa1d62120fb1b5cae702a470a179bcb26559e59f4251308828df9be67fe0783ba248d657a9005964690228b29db612d76b4c1dfd8ed636343c1f65a6326b4afc0d8b35d9bdc17481c69b6801db8d66dba939ef57a265098da8cea1296ca1697f90084a7681f34c19f469aa742e28580a045862cc6cbf5d7680c1e234c358f53a6957ac869f34ce89f436f0c16049a935b92d2821e28341bddc04cc2494aed82c5d3964e1ccf631055a732890a553c9d643d3cc324eb9f3a6391695bd16c73ab2a40ea28cbb122f1a8ccf6466ae5aca06ccb2fbee544828c47c30a115618bafe205e3f3d5bd9fc630b3f618308a4e4c3ef730617ffb5aadac54033133607586eddb20711221f18877b310daf5593eaf8410b30730014e8a10d/60/1920x1080_6046040/index.m3u8
+
+
