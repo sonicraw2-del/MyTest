@@ -47,7 +47,51 @@ https://stream-lb.livemediama.com/medi1tv-maghreb/hls/stream_1/playlist.m3u8
 https://stream-lb.livemediama.com/medi1tv-arabic/hls/stream_0/playlist.m3u8
 #EXTINF:-1 group-title="Maroc", Medi1Tv Arabic FHD
 https://stream-lb.livemediama.com/medi1tv-arabic/hls/stream_0/playlist.m3u8
-
+#=============WORLD CUP===================
+#EXTINF:-1,鈥⑩棌鈽呪槄--- 鈿� World Cup 2026 beIN Sports  MAX 鈿�---鈽呪槄鈼忊€�
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4524
+#EXTINF:-1,鈿� beIN MAX 1鈦瘁捶 (8K)
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4540
+#EXTINF:-1,鈿� beIN MAX 1鈦瘁捶
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4525
+#EXTINF:-1,鈿� beIN MAX 1岽瘁窗
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4526
+#EXTINF:-1,鈿� beIN MAX 1 刷岽�
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4527
+#EXTINF:-1,鈿� beIN MAX 2鈦瘁捶 (8K)
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4541
+#EXTINF:-1,鈿� beIN MAX 2鈦瘁捶
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4528
+#EXTINF:-1,鈿� beIN MAX 2岽瘁窗
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4529
+#EXTINF:-1,鈿� beIN MAX 2 刷岽�
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4530
+#EXTINF:-1,鈿� beIN MAX 3鈦瘁捶 (8K)
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4542
+#EXTINF:-1,鈿� beIN MAX 3鈦瘁捶
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4531
+#EXTINF:-1,鈿� beIN MAX 3岽瘁窗
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4543
+#EXTINF:-1,鈿� beIN MAX 3 刷岽�
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4544
+#EXTINF:-1,鈿絙eIN MAX 4鈦瘁捶
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4532
+#EXTINF:-1,鈿� beIN MAX 4岽瘁窗
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4545
+#EXTINF:-1,鈿� beIN MAX 4刷岽�
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4546
+#EXTINF:-1,鈿� beIN MAX 5鈦瘁捶
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4536
+#EXTINF:-1,鈿� beIN MAX 6鈦瘁捶  
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4537
+#EXTINF:-1,鈿絙eIN MAX1鈦瘁捶  (source 2)
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4534
+#EXTINF:-1,鈿絙eIN MAX 2鈦瘁捶岽� (source 2)
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4535
+#EXTINF:-1,鈿� beIN MAX 1岽瘁窗 (source 3)
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4538
+#EXTINF:-1,鈿� beIN MAX 1 刷岽� (source 3)
+http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4539
 # ==========================================
 # News
 # ==========================================
