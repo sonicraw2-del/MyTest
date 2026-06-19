@@ -1,39 +1,4 @@
-#EXTM3U
-
-# ==========================================
-# Maroc
-# ==========================================
-#EXTINF:-1 group-title="Maroc",2M Monde 4k (1080p)
-https://stream-lb.livemediama.com/2m/hls/stream_0/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",2M Monde FHD (1080p)
-https://stream-lb.livemediama.com/2m/hls/stream_1/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al Aoula 4k 
-https://stream-lb.livemediama.com/alaoula/hls/stream_0/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al Aoula FHD 
-https://stream-lb.livemediama.com/alaoula/hls/stream_1/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al Aoula TNT 4k 
-https://stream-lb.livemediama.com/alaoula-tnt/hls/stream_0/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al Aoula TNT FHD 
-https://stream-lb.livemediama.com/alaoula-tnt/hls/stream_1/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al Maghribia FHD 
-https://stream-lb.livemediama.com/almaghribia/hls/stream_0/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al arryadia 4K 
-https://stream-lb.livemediama.com/arryadia/hls/stream_0/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al arryadia FHD 
-https://stream-lb.livemediama.com/arryadia/hls/stream_1/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al arryadia TNT 4K 
-https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_0/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al arryadia TNT FHD 
-https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_1/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al arryadia HD1 FHD 
-https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_0/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al arryadia HD2 FHD 
-https://stream-lb.livemediama.com/arryadia-hd-02/hls/stream_0/playlist.m3u8
-#EXTINF:-1 group-title="Maroc",Al arryadia HD3 FHD 
-https://stream-lb.livemediama.com/arryadia-hd-03/hls/stream_0/playlist.m3u8
-#EXTINF:-1 group-title="Maroc", Aflam FHD 
-https://stream-lb.livemediama.com/aflam/hls/stream_0/playlist.m3u8
-#EXTINF:-1 group-title="Maroc", Tamazight FHD 
+https://stream-lb.livemediama.com/aflam/hls/stream_0/playlist.m3u8#EXTINF:-1 group-title="Maroc", Tamazight FHD 
 https://stream-lb.livemediama.com/tamazight/hls/stream_0/playlist.m3u8
 #EXTINF:-1 group-title="Maroc", M24 Maroc FHD 
 https://stream-lb.livemediama.com/m24maroc/hls/stream_0/playlist.m3u8
@@ -62,15 +27,13 @@ https://lb1.strmd.st/secure/XWeAdQnpcQQHRkSpwVYadvbGqYOFSnGg/rtmp/stream/2i4A2VW
 #EXTINF:-1,MATCH 4
 https://lb8.strmd.st/secure/qjmWvFgkdobgeihdilBYdFbRLXGXCZTB/rtmp/stream/m8UT3LV-lICNaQ1NplUM30FWPoZOKt3le7zLI3No_E3fqWDXegQeZReGwqRqhRGFbAKru66V/1/playlist.m3u8
 
-#EXTINF:-1, Live Match ppv 4k
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36
-https://vishnu.indianservers.st/secure/aebRZgHdLqFVWIBOetAjlpzxYhNsYEuL/1781895600/1781922600/FOX4K/index.m3u8
 
-#EXTINF:-1, Live Match  bein ppv
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36
-https://shiva.indianservers.st/secure/nLsoKTmYRnchgkVUWOyBoyNQWasDAdMW/1781895600/1781922600/bein_scotland/index.m3u8
+
+#EXTINF:-1, Live Match ppv 4k
+https://vishnu.indianservers.st/secure/aebRZgHdLqFVWlBOetAjlpzxYhNsYEuL/1781895600/1781922600/FOX4K/index.m3u8|Referer=https://ppv.to/&User-Agent=Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36
+
+#EXTINF:-1, Live Match bein ppv
+https://shiva.indianservers.st/secure/nLsoKTmYRnchqkVUWOyBoyNQWasDADMW/1781895600/1781922600/bein_scotland/index.m3u8|Referer=https://ppv.to/&User-Agent=Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36
 
 
 #EXTINF:-1,鈿� beIN MAX 1鈦瘁捶 (8K)
