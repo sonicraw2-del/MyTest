@@ -52,6 +52,30 @@ https://stream-lb.livemediama.com/medi1tv-arabic/hls/stream_0/playlist.m3u8
 #EXTINF:-1,WC MATCH 1
 https://lb7.strmd.st/secure/jDZwwcchygYblZjJdGqSRGGnZXTUCDpO/rtmp/stream/DsrosyzRRyFtAWFiL_pzelWhnu5zNcm3JsqWkWrFFrkWocEJNuUKTDtC-jLG6iOzgcFhcA-0w4PiAyYy3SNXF7E8TA/1/playlist.m3u8
 
+#EXTINF:-1,MATCH 2
+https://lb19.strmd.st/secure/kGxEBjctKEiLlDbQlbPuHOAGmwAdVVRl/rtmp/stream/nA3sZp9Ip7LXldeLXhigFDlz7sKxhyt4sK-8IBvFVqCrqV0kkXHpnrUZ2tGfrpLcJ_S2occ/1/playlist.m3u8
+
+
+#EXTINF:-1,MATCH 3
+https://lb10.strmd.st/secure/LNLgLJUbomADpXQFqrIyWabtmaJENcdp/rtmp/stream/DC1T63xenRB3k2bxjEHBpF-Km2WTHiJvrxEWEUR7RLCNPokp9cfRUPIrRjaTApruYgqNn3E7kg/1/playlist.m3u8
+
+#EXTINF:-1,MATCH 4
+https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8
+
+#EXTINF:-1,MATCH 5
+https://lb15.strmd.st/secure/NjFHRuuOgoVOsbgsPrgbZJpZeczztEPA/echo/stream/usa-vs-australia-football-1489391/1/playlist.m3u8
+
+#EXTINF:-1,MATCH ppv1 ada
+https://vishnu.indianservers.st/secure/OORGIoVVaoKcDqPmjkbgsQNfVkrJiYPz/1781884800/1781911800/FOX4K/index.m3u8
+
+#EXTINF:-1,MATCH ppv 4k
+https://vishnu.indianservers.st/secure/OORGIoVVaoKcDqPmjkbgsQNfVkrJiYPz/1781884800/1781911800/FOX4K/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,MATCH bein adab
+https://netanyahu.indianservers.st/secure/smBmpDqOCxwSxRhxhtGtNboRCAUQQLFH/1781884800/1781911800/bein_unitedstates/index.m3u8
+#EXTINF:-1,MATCH bein 1080 ppv
+https://netanyahu.indianservers.st/secure/smBmpDqOCxwSxRhxhtGtNboRCAUQQLFH/1781884800/1781911800/bein_unitedstates/tracks-v1a1/mono.ts.m3u8
+
+
 #EXTINF:-1,鈿� beIN MAX 1鈦瘁捶 (8K)
 http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4540
 #EXTINF:-1,鈿� beIN MAX 1鈦瘁捶
