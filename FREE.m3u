@@ -1,4 +1,7 @@
-https://stream-lb.livemediama.com/aflam/hls/stream_0/playlist.m3u8#EXTINF:-1 group-title="Maroc", Tamazight FHD 
+#EXTM3U
+#EXTINF:-1 group-title="Maroc", Tamazight FHD 
+https://stream-lb.livemediama.com/aflam/hls/stream_0/playlist.m3u8
+#EXTINF:-1 group-title="Maroc", Tamazight FHD 
 https://stream-lb.livemediama.com/tamazight/hls/stream_0/playlist.m3u8
 #EXTINF:-1 group-title="Maroc", M24 Maroc FHD 
 https://stream-lb.livemediama.com/m24maroc/hls/stream_0/playlist.m3u8
