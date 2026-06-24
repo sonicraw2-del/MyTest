@@ -14,22 +14,21 @@ https://stream-lb.livemediama.com/medi1tv-arabic/hls/stream_0/playlist.m3u8
 https://stream-lb.livemediama.com/medi1tv-arabic/hls/stream_0/playlist.m3u8
 #=============WORLD CUP===================
 #EXTINF:-1,鈥⑩棌鈽呪槄--- 鈿� World Cup 2026 beIN Sports  MAX 鈿�---鈽呪槄鈼忊€�
-#EXTINF:-1,MATCH  1
-https://lb16.strmd.st/secure/aHCebxdzTmnRHnDHSRZOTQehVEbtmfmH/rtmp/stream/IV7osNynxT2Bn82ZvQD6fGA7TupoOWqL7Z7Ya3J2AXzIkvvqVw-ai7Iikopb7sZbU-onui2LeSfoHJdS59oO/1/playlist.m3u8
+#EXTINF:-1,MATCH  1 bein mar
+https://lb8.strmd.st/secure/GRETUpiOpqnOwqvooyCmtafiWOJiePkg/rtmp/stream/m_xVHj6zaN-4ToiGFtCYmzaxXuu7zSSlfVqmZ3DdN8jlsfZZkpJwqXPEXbAK9WassLWDuXZOkV6iZA3tWps/1/playlist.m3u8
 
-#EXTINF:-1,MATCH 2
-https://lb6.strmd.st/secure/AqXeZxSQgqhqOcRjZVhwOQsnbxJmKhdR/rtmp/stream/uSgmkpeaLp5DhiHtyJgsVA0me3JOdTbvFKrMB5_BvdPxY7Upsn0PpLurOiF3QiPgiGpcuPE/1/playlist.m3u8
+#EXTINF:-1,MATCH mar FS1
+https://lb11.strmd.st/secure/ZhcoleoBdvqNFarHxovNbmIcvmXXcYKj/rtmp/stream/Mt1Zu6DpGOLRUZznTzTmUviDKsrzdpG5H8THHJPW45-LEQAezJAEowQG--7_4kRkces_J0M/1/playlist.m3u8
 
 
-#EXTINF:-1,MATCH 3
-https://lb1.strmd.st/secure/XWeAdQnpcQQHRkSpwVYadvbGqYOFSnGg/rtmp/stream/2i4A2VWUMDjBRnIAeThRIO77N-D-TqHEf5zhQaeE6ORm6cxQBIBvu9q_WjgYLQ473Y4mpEHDTQ/1/playlist.m3u8
+#EXTINF:-1,MATCH mar TSN1
+https://lb7.strmd.st/secure/ntuUGRFThRLnwdzrBZVBxlQZjUYnoCBy/rtmp/stream/OGig-na3NKg_FiZIPVstwFmAWXVJGjDmVu-Pp6rPmalL-tEE40d8dFFwt2Q_hmmxw2cGWbam/1/playlist.m3u8
 
-#EXTINF:-1,MATCH 4
-https://lb8.strmd.st/secure/qjmWvFgkdobgeihdilBYdFbRLXGXCZTB/rtmp/stream/m8UT3LV-lICNaQ1NplUM30FWPoZOKt3le7zLI3No_E3fqWDXegQeZReGwqRqhRGFbAKru66V/1/playlist.m3u8
+#EXTINF:-1,MATCH brasil bein
+https://lb16.strmd.st/secure/JvDWhjOahqyMwuSBkIacQfNoQYBfsiWk/rtmp/stream/3frG1kHxiCi_fL_y_GQyGlSuKzYq0bp12UprOe3U3PoOXo_1BgadOVbxh-ZAVPSJBA39ZHMkwztqhFiaDI7n/1/playlist.m3u8
 
-#EXTINF:-1, Live Match ppv 4k
-https://vishnu.indianservers.st/secure/PnkEGGCpNKORwManiKVsstejMrIGESXu/1781895600/1781922600/FOX4K/index.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to&User-Agent=Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-
+#EXTINF:-1, MATCH brasil FOX
+https://lb14.strmd.st/secure/DmyMcCJHUGgmoLZIqwHTGyGaRZoogpWx/rtmp/stream/rdhjmfJ80p_5-jliRbhYqfBGUhO1Wg3rm3GXYos6xHntqX4Sl6TyA4lmKAWX0ltcefPou4Y/1/playlist.m3u8
 
 #EXTINF:-1, Live Match bein ppv
 https://shiva.indianservers.st/secure/nLsoKTmYRnchqkVUWOyBoyNQWasDADMW/1781895600/1781922600/bein_scotland/index.m3u8|Referer=https://ppv.to/&User-Agent=Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36
