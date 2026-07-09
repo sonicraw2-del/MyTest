@@ -44,7 +44,13 @@ https://lb13.strmd.st/secure/hgIQVTngzyUawkpxMznLPTfStLzxsyZi/echo/stream/france
 https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=Ps0UxpCCyODqowyO3v_s3g&expires=1783627311
 #EXTINF:-1, 1ball st2
 https://cdn12.zohanayaan.com:1686/hls/nctvhd.m3u8?md5=knyQBVx3-dtR0x12wY1H6Q&expires=1783627346
-#EXTINF:-1, 1ball st3
+#EXTINF:-1, YC1 hd
+https://a11.kora-plus.app/live/max1.m3u8?token=jUi0XdmjJjvtOL80nJH9PCLMSo0&exp=1783623303
+#EXTINF:-1, YC1 4k 
+https://a14.kora-plus.app/live/max11.m3u8?token=GYQCCYeb2KIjYu6tIVmhcut-N4A&exp=1783623372
+#EXTINF:-1, YC1 ALWN
+https://a18.kora-plus.app/live/alwan1.m3u8?token=k-4lACROEaMMGIqiqA1yFnbhRh0&exp=1783623407
+#EXTINF:-1, YC1 hd
 
 #EXTINF:-1,•●★★--- ⚽ World Cup 2026 beIN Sports  MAX ⚽---★★●•
 http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4524
