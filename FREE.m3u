@@ -18,15 +18,33 @@ https://stream-lb.livemediama.com/medi1tv-arabic/hls/stream_0/playlist.m3u8
 #=============WORLD CUP===================
 #EXTINF:-1,鈥⑩棌鈽呪槄--- 鈿� World Cup 2026 beIN Sports  MAX 鈿�---鈽呪槄鈼忊€�
 
-#EXTINF:-1,MATCH mar FS1
-#EXTINF:-1,MATCH 
-#EXTINF:-1,MATCH 
-#EXTINF:-1, MATCH 3
-#EXTINF:-1, Live Match 4
-#EXTINF:-1, Live Match 5
-#EXTINF:-1, Live Match 6
-#EXTINF:-1, Live Match 7
-#EXTINF:-1, Live Match 8
+#EXTINF:-1,MATCH TSN 1ball
+https://lb11.strmd.st/secure/ByvCVDKVMDxkHzuHuqzczGXmwUdgFVgD/rtmp/stream/n51wgIcPx4fiRnX1A-1e3SMf7kmtNqjNQn8kg0L3PrB_VbmzcK8T8wHnJK6fmX8BbOWaf0_PEA/1/playlist.m3u8
+#EXTINF:-1,MATCH  FOX 1ball
+https://lb12.strmd.st/secure/SyYmzKUqGZDQkGDvqVoeGlbDSbjIjxFe/rtmp/stream/VTHaeD6mkQmgevu05-UkBd-o-x_AJpQvdT-A0z-ob64NRDiA8cm0jyuHLXIaGp0MM1mJDdE/1/playlist.m3u8
+#EXTINF:-1,MATCH BBC 1ball
+https://lb5.strmd.st/secure/uZkgXTGPoUZbrUwRlzJtdgnhhzrQAJqr/rtmp/stream/ea6-fud10qcgMC4MKW3xMv50nzAUjB1Kjedu1tp3KfhMIFEwoCoe5_IOEM66PzC7Y_v_BQC1/1/playlist.m3u8
+#EXTINF:-1, MATCH BEIN FR 1ball
+https://lb14.strmd.st/secure/HJdCVHNcYqgXHVbdPashNBDOviaNDkbG/rtmp/stream/fS4gh6c774W10sXf6tHNSyENtgo8SDimHHhsXNpxeUejLuJpLJuCR5Jh7YIlpxADcOgiQVm0tQJ1/1/playlist.m3u8
+#EXTINF:-1, MATCH TSN+  ARABIC
+https://lb5.strmd.st/secure/UqfNZaZUcfXOiPzoulaDukEBQLsXVGal/rtmp/stream/5Un68zZ_a0tPKNMkU305Oc-xo7QpcYSVeZlfIDzI-VnIO6iMEEaeegwnZIFbnfS3x5WoMuMenE7zctKNwj6obA/1/playlist.m3u8
+#EXTINF:-1, 1ball gQ1
+https://lb15.strmd.st/secure/cdnayZIjahscQnSexQVOGNfgpQPrAIrY/echo/stream/france-vs-morocco-football-1578539/1/playlist.m3u8
+#EXTINF:-1, 1ball gQ2
+https://lb11.strmd.st/secure/aqmWKrmTudxTTdScvxASnYbOriuVgIEY/echo/stream/france-vs-morocco-football-1578539/2/playlist.m3u8
+#EXTINF:-1, 1ball gQ3
+https://lb11.strmd.st/secure/ZrZclNjfcmCRANNXAsjHyiOSazOyZYaj/echo/stream/france-vs-morocco-football-1578539/3/playlist.m3u8
+#EXTINF:-1, 1ball gQ4
+https://lb10.strmd.st/secure/pQqWKJGgpTwbfazWHSocaTiFlidmspRB/echo/stream/france-vs-morocco-football-1578539/4/playlist.m3u8
+#EXTINF:-1, 1ball gQ5
+https://lb13.strmd.st/secure/RBDPHsFGAEOAPrDJOdyeBuqtPWhILrcT/echo/stream/france-vs-morocco-football-1578539/5/playlist.m3u8
+#EXTINF:-1, 1ball gQ6
+https://lb13.strmd.st/secure/hgIQVTngzyUawkpxMznLPTfStLzxsyZi/echo/stream/france-vs-morocco-football-1578539/6/playlist.m3u8
+#EXTINF:-1, 1ball st1
+https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=Ps0UxpCCyODqowyO3v_s3g&expires=1783627311
+#EXTINF:-1, 1ball st2
+https://cdn12.zohanayaan.com:1686/hls/nctvhd.m3u8?md5=knyQBVx3-dtR0x12wY1H6Q&expires=1783627346
+#EXTINF:-1, 1ball st3
 
 #EXTINF:-1,•●★★--- ⚽ World Cup 2026 beIN Sports  MAX ⚽---★★●•
 http://ugeen.live:8080/kaicer_VIPc1myro/g7vraq/4524
